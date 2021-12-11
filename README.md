@@ -12,4 +12,4 @@ Coventry City Council
 
 Find out more at: www.coventry.gov.uk/performance/ 
 
-Visualisations: https://smarturl.it/CovPerformanceData
+Visualisations: https://coventry-city-council.github.io/performance-data/
