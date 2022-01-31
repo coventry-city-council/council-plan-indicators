@@ -10,6 +10,6 @@ These are the performance indicators in the Council Plan performance report in a
 
 Coventry City Council
 
-Find out more at: www.coventry.gov.uk/performance/ 
+Find out more at: www.coventry.gov.uk/performance
 
 Visualisations: https://coventry-city-council.github.io/performance-data/
